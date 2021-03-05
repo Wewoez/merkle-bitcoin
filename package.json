@@ -12,7 +12,7 @@
     "escapedName": "merkle-bitcoin",
     "rawSpec": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
     "saveSpec": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
-    "fetchSpec": "https://github.com/joshuayabut/merkle-bitcoin.git",
+    "fetchSpec": "https://github.com/Wewoez/merkle-bitcoin.git",
     "gitCommittish": null
   },
   "_requiredBy": [
